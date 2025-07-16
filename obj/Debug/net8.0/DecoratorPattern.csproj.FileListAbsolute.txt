@@ -1,0 +1,15 @@
+/workspaces/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern
+/workspaces/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.deps.json
+/workspaces/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.runtimeconfig.json
+/workspaces/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.dll
+/workspaces/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.pdb
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfoInputs.cache
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfo.cs
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.sourcelink.json
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.dll
+/workspaces/DecoratorPattern/obj/Debug/net8.0/refint/DecoratorPattern.dll
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.pdb
+/workspaces/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.genruntimeconfig.cache
+/workspaces/DecoratorPattern/obj/Debug/net8.0/ref/DecoratorPattern.dll
